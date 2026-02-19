@@ -1,0 +1,8 @@
+
+{
+  "name": "ValvePro Alexandria - Main Water Valve Specialist",
+  "description": "Professional plumbing service specializing in main water valve swaps and curb stop operations in Alexandria, VA. Features an AI-powered plumbing advisor.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
